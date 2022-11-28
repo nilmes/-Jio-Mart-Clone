@@ -2,7 +2,7 @@
 # JioMart Clone - A Collaborative Project
 <p> <h2>Project is live on the link below ⮧ </h2> <h3> https://effulgent-narwhal-bd55d8.netlify.app/ </h3> </p>
 
-JioMart is an Indian e-commerce company, headquartered in Navi Mumbai, Maharashtra, India, that started as a joint venture between Reliance Retail and Jio Platforms. The company initially focused on online groceries sales before expanding into other product categories such as fashion, home essentials, and lifestyle products
+In this project we have tried to make a look alike clone of Jio-Mart Website. With our efforts and the technology stack like JS, CSS and HTML, we were able to clone the front end with similar looks and features.Our initially focused on online groceries sales before expanding into other product categories such as fashion, home essentials, and lifestyle products
 
 
 ## Authors
