@@ -67,17 +67,5 @@ HTML, CSS, JavaScript, JSON Server and heroku
 
 ![Screenshot (657)](https://github.com/nilmes/jiomart-Screenshot/blob/main/user%20profile%20page.png?raw=true)
 
-# Checkout Page
 
-![Screenshot (658)](https://user-images.githubusercontent.com/105913828/190447181-19a42b5b-1772-47dd-be17-94cd2d7e173c.png)
-
-# InternShip Page
-- Here you can see the all Interniship in various States 
-- After Clicking you can get the details of Interships.
-
-![Screenshot (656)](https://user-images.githubusercontent.com/105913828/190448215-42dbe0b3-0e9c-471e-a7c6-26dce2b2ed6c.png)
-
-# Contact Page
-
-![Screenshot (655)](https://user-images.githubusercontent.com/105913828/190448391-9145e3ad-f2f5-4d7f-978b-a71022432351.png)
 
