@@ -24,9 +24,9 @@ In this project we have tried to make a look alike clone of Jio-Mart Website. Wi
 
 ## Tech Stack
 
-HTML, CSS, JavaScript, JSON Server and heroku 
+HTML, CSS, JavaScript, JSON Server and Cyclic.sh.
 
-*Server:* Local Storage of Web browser,JSON Server
+*Server:* Local Storage of Web browser, JSON Server.
 
 
 ## Roles & Responsibilities:
