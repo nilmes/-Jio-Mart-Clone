@@ -70,11 +70,41 @@ HTML, CSS, JavaScript, JSON Server and Cyclic.sh.
 
 # Products page
 - Here user can add products into the cart .
-- User can also sort the products according to price as well as catagories of products. 
+- Users can also sort the products according to price as well as categories of product  
 
 
 
 ![Screenshot (657)](https://github.com/nilmes/jiomart-Screenshot/blob/main/product%20page.png?raw=true)
+
+
+# Cart page
+- Here users can able to see a list of products that are available in the cart.
+- Users can also increase the number of products that are available in the cart.
+- Users can also able to see the total amount of selected products.
+
+
+![Screenshot (657)](https://github.com/nilmes/jiomart-Screenshot/blob/main/cart%20page.png?raw=true)
+
+
+# Order summary page
+- Here users have to provide a full delivery address .
+
+
+![Screenshot (657)](https://github.com/nilmes/jiomart-Screenshot/blob/main/order%20summary.png?raw=true)
+
+
+# Payment page
+- Here users have to provide ATM card details for payment.
+
+
+![Screenshot (657)](https://github.com/nilmes/jiomart-Screenshot/blob/main/payment%20page.png?raw=true)
+
+
+# Thankyou message
+- After successful payment with a thank you message, the user will land on the homepage.
+
+
+![Screenshot (657)](https://github.com/nilmes/jiomart-Screenshot/blob/main/Thankyou.png?raw=true)
 
 
 
