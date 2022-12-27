@@ -68,4 +68,13 @@ HTML, CSS, JavaScript, JSON Server and Cyclic.sh.
 ![Screenshot (657)](https://github.com/nilmes/jiomart-Screenshot/blob/main/user%20profile%20page.png?raw=true)
 
 
+# Products page
+- Here user can add products into the cart .
+- User can also sort the products according to price as well as catagories of products. 
+
+
+
+![Screenshot (657)](https://github.com/nilmes/jiomart-Screenshot/blob/main/product%20page.png?raw=true)
+
+
 
